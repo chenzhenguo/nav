@@ -9,16 +9,16 @@
 
 # 仓库地址，填写 Fork 后的仓库地址，支持 Gitee / GitHub
 # 作者 Gitee 仓库地址 https://gitee.com/xiejiahe/nav
-gitRepoUrl: https://github.com/chenzhenguo/nav/
+gitRepoUrl: https://github.com/chenzhenguo/nav
 
 # Fork 部署分支
 branch: main
 
 # 只有GitHub pages用户需要设置为true， 其他建议设置为 false
-hashMode: false
+hashMode: true
 
 # 一旦填写认为你是自有部署，Fork 不要填写
-address: 'https://github.com/chenzhenguo/nav/'
+address: ''
 
 # 自有部署后台登录密码
 password: 658292b092dd79f62a844461
